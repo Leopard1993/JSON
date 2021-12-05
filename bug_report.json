@@ -1,3 +1,11 @@
 {
-  "bug_report": ["Заголовок": "Название заголовка", "Шаги воспроизведения": "Шаг1, Шаг2, Шаг3", "Ожидаемый результат": "Какой то результат который нам нужен", "Фактический результат": "Результат который должен быть", "Priority": "Low, Medium, High", "Severity": "Trivial, Minor, Major, Critical,Blocker"]
+  "bug_report":
+   [
+	   "title": "name title",
+	   "steps to reproduction": "step1, step2, step3",
+	   "expected result": "the result we need",
+	   "factual result": "the result of which must be",
+	   "priority factor": "Low, Medium, High",
+	   "severity factor": "Trivial, Minor, Major, Critical, Blocker"
+   ]
 }
