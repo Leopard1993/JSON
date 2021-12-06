@@ -1,6 +1,5 @@
 {
   "bug_report":
-   [
 	   {
            "title": "name_title",
 	   "steps_to_reproduction": ["step1", "step2", "step3"],
@@ -9,5 +8,4 @@
 	   "priority factor": ["Low", "Medium", "High"],
 	   "severity factor": ["Trivial", "Minor", "Major", "Critical", "Blocker"]
 	   }
-   ]
 }
