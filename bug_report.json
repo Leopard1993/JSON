@@ -1,11 +1,13 @@
 {
   "bug_report":
    [
-	   "title": "name title",
-	   "steps to reproduction": "step1, step2, step3",
-	   "expected result": "the result we need",
-	   "factual result": "the result of which must be",
-	   "priority factor": "Low, Medium, High",
-	   "severity factor": "Trivial, Minor, Major, Critical, Blocker"
+	   {
+           "title": "name_title",
+	   "steps_to_reproduction": ["step1", "step2", "step3"],
+	   "expected_result": "the_result_we_need",
+	   "factual_result": "the_result_of_which_must_be",
+	   "priority factor": ["Low", "Medium", "High"],
+	   "severity factor": ["Trivial", "Minor", "Major", "Critical", "Blocker"]
+	   }
    ]
 }
